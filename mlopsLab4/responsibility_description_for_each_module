@@ -1,0 +1,6 @@
+* `data.py` – Load delivery dataset and split into training and testing sets.
+* `features.py` – Includes functions to validate and describe single deliveries (including computation of average speed).
+* `model.py` – Train, evaluate, save and load machine learning model.
+* `validate.py` – Validates if a delivery includes valid values in all required fields.
+* `__init__.py` – Marks `delivery` directory as a Python package.
+* `train.py` – Execute end-to-end training of the model from the command line.
